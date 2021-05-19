@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Ben-Hodgson.uk</title>
+    <link>https://ben-hodgson.github.io/tags/blog/</link>
+    <description>Recent content in blog on Ben-Hodgson.uk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Ben Hodgson</copyright>
+    <lastBuildDate>Wed, 19 May 2021 15:06:51 +0100</lastBuildDate><atom:link href="https://ben-hodgson.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://ben-hodgson.github.io/posts/intro/</link>
+      <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.github.io/posts/intro/</guid>
+      <description>Welcome to my new portfolio/blog I have created this to document my progress through my degree in Computers &amp;amp; IT with the Open University. I also plan to document my other projects here too.</description>
+      <content>&lt;h2 id=&#34;welcome-to-my-new-portfolioblog&#34;&gt;Welcome to my new portfolio/blog&lt;/h2&gt;
+&lt;p&gt;I have created this to document my progress through my degree in Computers &amp;amp; IT with the Open University.
+I also plan to document my other projects here too.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

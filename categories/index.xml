@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ben-Hodgson.uk</title>
+    <link>https://ben-hodgson.github.io/categories/</link>
+    <description>Recent content in Categories on Ben-Hodgson.uk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 Ben Hodgson</copyright><atom:link href="https://ben-hodgson.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
