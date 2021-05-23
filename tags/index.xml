@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ben-Hodgson.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2021 Ben Hodgson</copyright>
+    <copyright>Ben Hodgson</copyright>
     <lastBuildDate>Wed, 19 May 2021 15:06:51 +0100</lastBuildDate><atom:link href="https://ben-hodgson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
@@ -15,7 +15,33 @@
       
       <guid>https://ben-hodgson.github.io/tags/blog/</guid>
       <description></description>
-      <content></content>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://ben-hodgson.github.io/tags/project/</link>
+      <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://ben-hodgson.github.io/tags/python/</link>
+      <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weather station</title>
+      <link>https://ben-hodgson.github.io/tags/weather-station/</link>
+      <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.github.io/tags/weather-station/</guid>
+      <description></description>
     </item>
     
   </channel>

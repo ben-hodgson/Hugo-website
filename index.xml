@@ -6,19 +6,24 @@
     <description>Recent content on Ben-Hodgson.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2021 Ben Hodgson</copyright>
+    <copyright>Ben Hodgson</copyright>
     <lastBuildDate>Wed, 19 May 2021 15:06:51 +0100</lastBuildDate><atom:link href="https://ben-hodgson.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro</title>
-      <link>https://ben-hodgson.github.io/posts/intro/</link>
+      <link>https://ben-hodgson.github.io/posts/2021/intro/</link>
       <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
       
-      <guid>https://ben-hodgson.github.io/posts/intro/</guid>
+      <guid>https://ben-hodgson.github.io/posts/2021/intro/</guid>
       <description>Welcome to my new portfolio/blog I have created this to document my progress through my degree in Computers &amp;amp; IT with the Open University. I also plan to document my other projects here too.</description>
-      <content>&lt;h2 id=&#34;welcome-to-my-new-portfolioblog&#34;&gt;Welcome to my new portfolio/blog&lt;/h2&gt;
-&lt;p&gt;I have created this to document my progress through my degree in Computers &amp;amp; IT with the Open University.
-I also plan to document my other projects here too.&lt;/p&gt;
-</content>
+    </item>
+    
+    <item>
+      <title>Weather Station</title>
+      <link>https://ben-hodgson.github.io/posts/2021/weather-station/</link>
+      <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.github.io/posts/2021/weather-station/</guid>
+      <description>I have been working on a weather station for a little while. Longer than I&amp;rsquo;d have wanted but with other work and getting the money together to buy the parts its taken a while. I have had a DHT11 plugged into a breadboard and connected to a Raspberry Pi Zero W for a few months. I have written a program in python to gather the temperature and humidity every 30 minutes.</description>
     </item>
     
   </channel>
