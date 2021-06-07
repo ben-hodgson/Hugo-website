@@ -7,11 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ben Hodgson</copyright>
-    <lastBuildDate>Wed, 19 May 2021 15:06:51 +0100</lastBuildDate><atom:link href="https://ben-hodgson.github.io/tags/weather-station/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 14:05:20 +0100</lastBuildDate><atom:link href="https://ben-hodgson.github.io/tags/weather-station/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weather Station Update</title>
+      <link>https://ben-hodgson.github.io/posts/2021/weather-station-update/</link>
+      <pubDate>Mon, 07 Jun 2021 14:05:20 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.github.io/posts/2021/weather-station-update/</guid>
+      <description>Well I ran the sensors for a week at hand hour intervals and got a quite a few readings. I’m thinking of having play around with numpy or pandas and graphing the daily averages of the readings.
+I had a few outliers with some of the humidity readings where it would jump to around 140%, but I think that was down to the wiring in the breadboard not the sensor as there were a few times where there was no readings from the DHT11 too.</description>
+    </item>
+    
     <item>
       <title>Weather Station</title>
       <link>https://ben-hodgson.github.io/posts/2021/weather-station/</link>
-      <pubDate>Wed, 19 May 2021 15:06:51 +0100</pubDate>
+      <pubDate>Mon, 31 May 2021 21:06:51 +0100</pubDate>
       
       <guid>https://ben-hodgson.github.io/posts/2021/weather-station/</guid>
       <description>I have been working on a weather station for a little while. Longer than I&amp;rsquo;d have wanted but with other work and getting the money together to buy the parts its taken a while. I have had a DHT11 plugged into a breadboard and connected to a Raspberry Pi Zero W for a few months. I have written a program in python to gather the temperature and humidity every 30 minutes.</description>
