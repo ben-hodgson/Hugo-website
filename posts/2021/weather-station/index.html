@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Weather Station - Ben-Hodgson.uk</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="Weather station project intro">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="Ben-Hodgson.uk" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">Ben-Hodgson.uk</div>
+					<div class="logo__tagline">The portfolio and blog of Ben Hodgson</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about">
+				
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/ben-hodgson_cv.pdf">
+				
+				<span class="menu__text">CV</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="https://github.com/ben-hodgson">
+				
+				<span class="menu__text">GitHub</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="https://www.linkedin.com/in/benthodgson/">
+				
+				<span class="menu__text">Linkedin</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Weather Station</h1>
+			
+		</header><div class="content post__content clearfix">
+			<p>I have been working on a weather station for a little while. Longer than I&rsquo;d have wanted but with other work and getting the money together to buy the parts its taken a while.
+I have had a DHT11 plugged into a breadboard and connected to a Raspberry Pi Zero W for a few months. I have written a program in python to gather the temperature and humidity every 30 minutes. It then writes this data to a .xlsx file.</p>
+<p>I have just purchased a BMP280 from Pimoroni to see how well that performs with temperature readings, as I have read about them not being as accurate due to the thermometer being encased in with the other sensors.
+I have had some trouble getting it to work on my Raspberry Pi 3b+ and I was beginning to think that it may be faulty. I checked that I2C was running multiple times and I checked that I got a reading of 76 when I ran <code>icdetect -a 1</code> which I did.
+I checked my solder joints and re-soldered one pin. I tried the BMP280 in the Raspberry Pi 0 W and it still didn&rsquo;t work, I was about to give up and thats when I realized that I had cloned and installed the files for a BME280 and not the BMP280.</p>
+<p>Thankfully after realizing this mistake I cloned and installed the correct files and it is now working as intended and I can get on with comparing the DHT11 and BMP28. I will run them against each other for the next week to see what differences in readings they
+produce and thenI think I will start looking at getting a anemometer designed and 3D printed.</p>
+<p>My plan for this weather station is not only for temperature, humidity, pressure and, wind speed readings. But I want to have a rain gauge too and I may also look into the possibility of wind direction</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/project/" rel="tag">project</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/weather-station/" rel="tag">weather station</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/python/" rel="tag">python</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 Ben Hodgson.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>
