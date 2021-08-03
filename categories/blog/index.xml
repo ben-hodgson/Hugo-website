@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Ben-Hodgson.uk</title>
-    <link>https://ben-hodgson.uk/tags/blog/</link>
+    <link>https://ben-hodgson.uk/categories/blog/</link>
     <description>Recent content in Blog on Ben-Hodgson.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 12:23:09 +0100</lastBuildDate><atom:link href="https://ben-hodgson.uk/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Aug 2021 12:23:09 +0100</lastBuildDate><atom:link href="https://ben-hodgson.uk/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>August Update</title>
       <link>https://ben-hodgson.uk/august-update/</link>
