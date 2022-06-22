@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Ben-Hodgson.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 12:23:09 +0100</lastBuildDate><atom:link href="https://ben-hodgson.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 11:29:00 +0100</lastBuildDate><atom:link href="https://ben-hodgson.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://ben-hodgson.uk/categories/blog/</link>
-      <pubDate>Tue, 03 Aug 2021 12:23:09 +0100</pubDate>
+      <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
       
       <guid>https://ben-hodgson.uk/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>https://ben-hodgson.uk/categories/update/</link>
+      <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.uk/categories/update/</guid>
       <description></description>
     </item>
     
