@@ -8,11 +8,47 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jun 2022 11:29:00 +0100</lastBuildDate><atom:link href="https://ben-hodgson.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3d Models</title>
+      <link>https://ben-hodgson.uk/categories/3d-models/</link>
+      <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.uk/categories/3d-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3d Printing</title>
+      <link>https://ben-hodgson.uk/categories/3d-printing/</link>
+      <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.uk/categories/3d-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog</title>
       <link>https://ben-hodgson.uk/categories/blog/</link>
       <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
       
       <guid>https://ben-hodgson.uk/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://ben-hodgson.uk/categories/raspberry-pi/</link>
+      <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.uk/categories/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stl</title>
+      <link>https://ben-hodgson.uk/categories/stl/</link>
+      <pubDate>Wed, 22 Jun 2022 11:29:00 +0100</pubDate>
+      
+      <guid>https://ben-hodgson.uk/categories/stl/</guid>
       <description></description>
     </item>
     

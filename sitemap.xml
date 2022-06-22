@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ben-hodgson.uk/tags/3d-models/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/categories/3d-models/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/tags/3d-printing/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/categories/3d-printing/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
     <loc>https://ben-hodgson.uk/</loc>
     <lastmod>2022-06-22T11:29:00+01:00</lastmod>
   </url><url>
@@ -17,6 +29,21 @@
     <loc>https://ben-hodgson.uk/posts/</loc>
     <lastmod>2022-06-22T11:29:00+01:00</lastmod>
   </url><url>
+    <loc>https://ben-hodgson.uk/tags/raspberry-pi/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/categories/raspberry-pi/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/posts/2022/raspi-0-stack/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/tags/stl/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ben-hodgson.uk/categories/stl/</loc>
+    <lastmod>2022-06-22T11:29:00+01:00</lastmod>
+  </url><url>
     <loc>https://ben-hodgson.uk/tags/</loc>
     <lastmod>2022-06-22T11:29:00+01:00</lastmod>
   </url><url>
@@ -26,10 +53,10 @@
     <loc>https://ben-hodgson.uk/categories/update/</loc>
     <lastmod>2022-06-22T11:29:00+01:00</lastmod>
   </url><url>
-    <loc>https://ben-hodgson.uk/update/</loc>
+    <loc>https://ben-hodgson.uk/posts/2022/update/</loc>
     <lastmod>2022-06-22T11:29:00+01:00</lastmod>
   </url><url>
-    <loc>https://ben-hodgson.uk/august-update/</loc>
+    <loc>https://ben-hodgson.uk/posts/2021/august-update/</loc>
     <lastmod>2021-08-03T12:23:09+01:00</lastmod>
   </url><url>
     <loc>https://ben-hodgson.uk/tags/project/</loc>
